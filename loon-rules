@@ -1,0 +1,11 @@
+#自定义 Loon 分流规则
+IP-CIDR,103.146.231.93/32,DIRECT
+IP-CIDR,43.160.156.39/32,DIRECT
+DOMAIN-KEYWORD,66111,香港时延优选
+DOMAIN-KEYWORD,0ruf2t,香港时延优选
+IP-CIDR,129.226.3.47/32,DIRECT
+DOMAIN-SUFFIX,gstatic.com,美国手动策略
+DOMAIN-SUFFIX,googleapis.com,美国手动策略
+DOMAIN-KEYWORD,ultramobile,美国时延优选
+DOMAIN-KEYWORD,oruf2t,香港时延优选
+DOMAIN-SUFFIX,kernelcheat.com,DIRECT
