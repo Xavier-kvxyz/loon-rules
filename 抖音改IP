@@ -1,3 +1,4 @@
-#!name=抖音分流，修改IP地址，节点要干净一些，不然会显示未知
+#!name=抖音分流
+#!修改抖音IP，节点要干净一点或者家宽，不然会显示未知
 DOMAIN-SUFFIX, amemv.com
 DOMAIN-SUFFIX, douyinvod.com
