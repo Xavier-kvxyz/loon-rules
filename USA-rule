@@ -1,5 +1,5 @@
-DOMAIN-KEYWORD,ultramobile  #美国ultra手机卡
-DOMAIN-SUFFIX,gstatic.com  #Gemini域名
-DOMAIN-SUFFIX,googleapis.com  #Gemini域名
-DOMAIN-SUFFIX,gemini.google  #Gemini域名
-DOMAIN-SUFFIX,gemini.google.com  #Gemini域名
+DOMAIN-KEYWORD,ultramobile
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
